@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
+  z-index: 1;
 }
 
 html {
@@ -505,6 +506,10 @@ PROJECTS
     margin-bottom: 60px;
 }
 
+.project {
+    margin-bottom: 80px;
+}
+
 .project__img {
     width: 100%;
     transition: all 600ms ease;
@@ -620,6 +625,7 @@ SHAPES
 
 .shape {
     position: fixed;
+    z-index: 0;
 }
 
 .shape--0 {
