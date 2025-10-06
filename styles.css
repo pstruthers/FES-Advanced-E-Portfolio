@@ -92,7 +92,7 @@ input:focus, textarea:focus {
 }
 
 .title {
-    font-size: 120px;
+    font-size: 100px;
     margin-bottom: 12px;
     text-align: left;
     line-height: 1;
@@ -238,7 +238,7 @@ LANDING PAGE
 }
 
 .header__para {
-    font-size: 24px;
+    font-size: 20px;
     line-height: 2;
     max-width: 450px;
 }
@@ -672,7 +672,7 @@ SHAPES
         font-size: 80px;
     }
     .header__para {
-        font-size: 20px;
+        font-size: 18px;
     }
     .section__title {
         font-size: 42px;
@@ -717,7 +717,7 @@ SHAPES
         font-size: 52px;
     }
     .header__para {
-        font-size: 18px;
+        font-size: 16px;
     }
     .nav__link:first-child {
         display: none;
